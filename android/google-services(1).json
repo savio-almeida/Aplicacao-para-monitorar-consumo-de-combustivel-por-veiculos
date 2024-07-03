@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166298848465",
+    "project_id": "firestore-565c8",
+    "storage_bucket": "firestore-565c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166298848465:android:25dd92f01d9351e91209f0",
+        "android_client_info": {
+          "package_name": "com.savio.savio_flutter_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQBED6IylWCHqq4mpqtHMdO58KF1pUJj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
